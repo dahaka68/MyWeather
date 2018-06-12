@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">MyWeather</string>
+    <string name="enter_a_city">Enter a city</string>
+    <string name="clouds">clouds:</string>
+    <string name="pressure">pressure:</string>
+    <string name="unknown_error">Unknown error!</string>
+    <string name="wind">wind:</string>
+</resources>
